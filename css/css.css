@@ -303,4 +303,18 @@ section{
     align-items: center;
 }
 
+/**Contacto**/
+
+label{
+    display: block;
+}
+input:not([type="submit"]){
+    padding: 1rem;
+    display: block;
+    width: 100%;
+    background-color: #e1e1e1;
+    margin-bottom: 2rem;
+    border: none;
+}
+
 
